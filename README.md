@@ -178,15 +178,12 @@ EX:           μ = (1+3+4+7+8) / 5 = 4.6
 
 
 ### output
+
+### before simulation
+![Screenshot (78)](https://github.com/Sakthimurugavel/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/118707246/5cb6a247-c49a-48ca-ba41-c7256b6ab546)
+
+### after simulation
 ![Screenshot (79)](https://user-images.githubusercontent.com/118707246/236832715-a4f67cef-1136-4936-ac6c-d71397c07092.png)
-
-
-
-
-
-
-
-
 
 
 
